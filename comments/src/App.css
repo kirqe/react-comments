@@ -1,0 +1,28 @@
+.comment {
+  border-left: 1px solid #eee;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  font-size: .9rem;
+}
+
+.comment-user {
+  display: block;
+  font-size: .8rem;
+  color: #545a60;
+}
+
+.comment-body {
+  display: block; 
+}
+
+.comment-footer {
+  display: flex;
+  font-size: 0.5rem; 
+}
+.comment-footer-item {
+  margin-right: 5px;
+}
+
+.comment-footer-item a {
+  text-decoration: none;
+}
